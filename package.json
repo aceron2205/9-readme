@@ -1,0 +1,35 @@
+{
+  "name": "10-readme",
+  "version": "1.0.0",
+  "description": "This application uses node.js to dynamically create a professional README.md by using Inquirer package from a user's information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "10-README"
+  },
+  "keywords": [
+    "README",
+    "application",
+    "Description",
+    "Table",
+    "of",
+    "Content",
+    "Installation",
+    "Usage",
+    "License",
+    "Contributing",
+    "Tests",
+    "Questions"
+  ],
+  "author": "Andrea Ceron",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
+
+
+
